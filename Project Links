@@ -1,0 +1,11 @@
+1. Analysis of CESM Scenarios: https://ucb-stat-159-s22.github.io/hw07-group20/notebooks/main.html
+   Summary analysis exploring four possible future climate scenarios using CMIP data, utilized Git for version control to work with a team and create a Git Pages website. Code and explanation of methods with results on site. Maintained modern standards for reproducible research. Winning group for final project presentation competition.
+
+2. Analysis of Chronic Disease Indicators with Casual Inference and Multiple Hypothesis Testing Methods: https://drive.google.com/file/d/1Pc7iqU_7dTCTYX86o__QChY5C1ScDAZy/view
+   Research report on the casual relation between tobacco legislation and PM2.5 air quality levels to Chronic Disease Indicators utilizing CDC public data archives. Work done in Juypter notebooks.
+
+3. Twitter Sentiment NLP: https://colab.research.google.com/drive/1B8s1t6jDUh5jO7nlfzHSXXSA9w-zFmBA#scrollTo=BpQeE-EjUscq
+   Downloaded celebrity tweet history via Twitter API and performed sentiment analysis using the VADER lexicon and its compound polarity score to gain insight into timely trends.
+
+4. Music Genre Classification: https://drive.google.com/file/d/1V6vGtzrCfTHQF4OuyoyX5SVdmRtMB-nO/view
+   Using Python's Librosa audio processing library along with Tensorflow and Keras neural network frameworks, I was able to extract features from audio files and use a multilayer perceptron model to classify into 10 genres with over 65% test accuracy.
